@@ -1,0 +1,14 @@
+.navbar {
+      color: brown;
+      background-color: aqua;
+}
+.menu{
+      background-color: black;
+}
+.nav-item{
+      color: green;
+}
+a{
+      color: orange;
+      opacity: 1;
+}

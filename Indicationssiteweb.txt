@@ -1,0 +1,9 @@
+1-fond blanc !!!
+2-ecriture bleu!!! /////*******//// Augmenter la taille du texte 
+3-survole violé!!!
+4-calendrier event
+5-page de connexion seule admin peut creer compte
+6-Page envoie message pour admin 
+8-Ajouter une barre de recherche pour la recherche..............
+9-page d'acceil Axes de recherche, barre de recherche........
+10-Gestion membre....................

@@ -1,0 +1,49 @@
+.logo{
+    width:12em;
+    height: 6em;
+}
+.rech{
+    position: relative;
+    right: 24em;
+    top:2em;
+    width: 22em;
+}
+.rech-but{
+    position: relative;
+    left:-1em;
+bottom: 0.4em;
+  
+}
+.slider-size {
+    height: 500px; 
+    background:url('caroussel-img/800px_COLOURBOX44871626.jpg') center center; background-size:cover;
+    animation: slider 5s infinite;
+  }
+  @keyframes slider {
+   
+    0%   {background:url('caroussel-img/wallhaven-g8ygqd.jpg') center center; background-size:cover;}
+    25%  {background:url('caroussel-img/wallhaven-k715g6.png') center center; background-size:cover;}
+    50%   {background:url('caroussel-img/800px_COLOURBOX44871626.jpg') center center; background-size:cover;}
+    75%  {background:url('caroussel-img/800px_COLOURBOX44871626.jpg') center center; background-size:cover;}
+    100% {background:url('caroussel-img/IMG_0347.jpg') center center; background-size:cover;}
+  }
+  ul{
+      position: relative;
+      left:38em;
+      top:2em;
+  }
+  .conteneur{
+    
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: space-between;
+  }
+  .contenue{
+      margin-left: 1em;
+      margin-top:2em
+  }
+  .tableau{
+      position: relative;
+      left: 22em;
+  }
